@@ -1,3 +1,3 @@
-#Oh wow it's an awesome project
+# Oh wow it's an awesome project
 
-Hey! Hello! Bonjour!
+Hey!Hello!Halo!
